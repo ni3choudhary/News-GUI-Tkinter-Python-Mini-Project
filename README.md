@@ -18,10 +18,10 @@ Install Libraries using below command
 ```console
 $ pip install -r requirements.txt
 ```
-Generate an API key from newsapi.org website and create a .env folder in root directory with below details.
+Generate an API key from newsapi.org website and create a .env file in root directory with below details.
 ```console
-$ API_KEY = "Your-API-Key"
-
+API_KEY = "Your-API-Key"
+```
 - Run app.py on terminal to start local server.
 ```console
 $ python app.py
